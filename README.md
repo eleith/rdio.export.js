@@ -6,7 +6,7 @@ export track artist/album/name from a user's collection in rdio using node.js
 dependendies
 ==============
 
-* node.js
+* [node.js](http://nodejs.org)
 * a [rdio API key/secret](http://developer.rdio.com/) for this to work
 * [rdio.js](https://github.com/rdio/rdio-simple/blob/master/node/rdio.js) *provided in repo for convenience*
 * [om.js](https://github.com/rdio/rdio-simple/blob/master/node/om.js) *provided in repo for convencience*
