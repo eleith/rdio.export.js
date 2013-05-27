@@ -8,6 +8,8 @@ dependendies
 
 * node.js
 * a [rdio API key/secret](http://developer.rdio.com/) for this to work
+* [rdio.js](https://github.com/rdio/rdio-simple/blob/master/node/rdio.js) *provided in repo for convenience*
+* [om.js](https://github.com/rdio/rdio-simple/blob/master/node/om.js) *provided in repo for convencience*
 
 instructions
 ==============
@@ -16,4 +18,5 @@ instructions
 * run xport.js
 * when prompted, enter a public rdio username
 * if it succeeds, a csv file will be generated in the folder
+
 
